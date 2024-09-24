@@ -19,7 +19,7 @@ XdoseR is a powerful multi-threaded HTTP request tool designed for performance a
 
 2. **Run the Script**:
    ```bash
-   python xdoser.py
+   python3 xdoser.py
    ```
 
 3. **Follow the Prompts**: Enter the target URL and specify the number of threads you wish to use.
